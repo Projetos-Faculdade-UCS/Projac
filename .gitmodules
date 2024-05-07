@@ -1,0 +1,9 @@
+[submodule "projac-backend"]
+	path = projac-backend
+	url = https://github.com/Projetos-Faculdade-UCS/projac-backend.git
+[submodule "projac-mobile"]
+	path = projac-mobile
+	url = https://github.com/Projetos-Faculdade-UCS/projac-mobile.git
+[submodule "projac-web"]
+	path = projac-web
+	url = https://github.com/Projetos-Faculdade-UCS/projac-web.git
